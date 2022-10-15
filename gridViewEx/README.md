@@ -1,16 +1,12 @@
 # gridviewex
 
-study GridView by Flutter
+Study GridView by Flutter
 
-## Getting Started
+- GridView 사용법을 숙지한다.
+- GridView를 CustomScrollView로 대체할 수 있는 방법을 연습한다.
+- MediaQuery.removePadding을 사용하여 상단 Padding을 재정의 하는 방법을 연습한다.
+- ListTile을 ListView와 GridView를 사용해 구현하는 연습을 한다.
 
-This project is a starting point for a Flutter application.
+출처
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[https://api.flutter.dev/flutter/widgets/GridView-class.html](https://api.flutter.dev/flutter/widgets/GridView-class.html)
